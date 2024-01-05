@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: jerry-app-metadata
+spec:
+  selector:
+    app: jerry-app-selector
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 5555
+      nodePort: 30000
+  type: NodePort

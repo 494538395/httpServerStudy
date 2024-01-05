@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: jerry-app-metadata
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: jerry-app-selector
+  template:
+    metadata:
+      labels:
+        app: jerry-app-selector
+    spec:
+      containers:
+        - name: jerry-app
+          image: localhost:5000/my-http-shell:1.0
+          ports:
+            - containerPort: 5555
