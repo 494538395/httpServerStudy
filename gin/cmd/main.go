@@ -15,6 +15,9 @@ func main() {
 		fmt.Println("你好,这是 middleware")
 	})
 
+	engine.GET("/health", func(c *gin.Context) {
+		c.JSON(200, "success")
+	})
 	engine.GET("/redis", dao.GetFromRedis)
 	engine.GET("/mysql", dao.GetFromMySQL)
 	engine.GET("/openSearch", dao.GetFromOpenSearch)
