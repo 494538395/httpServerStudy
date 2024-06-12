@@ -25,7 +25,18 @@ var (
 				group.ALLMap(
 					g.Map{
 						"/health": controller.HealthCtrl,
-					})
+					},
+				)
+			})
+
+			s.Group("/", func(group *ghttp.RouterGroup) {
+				group.ALLMap(
+					g.Map{
+						"/group/get/ex":          controller.HealthCtrl.GetGroupExt,
+						"/group/verification":    controller.HealthCtrl.VerificationCheck,
+						"/file/get/level/config": controller.FileCtrl.Get,
+					},
+				)
 			})
 			s.Run()
 			return nil
