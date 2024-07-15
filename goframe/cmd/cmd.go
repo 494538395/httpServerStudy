@@ -34,7 +34,8 @@ var (
 					g.Map{
 						"/group/get/ex":          controller.HealthCtrl.GetGroupExt,
 						"/group/verification":    controller.HealthCtrl.VerificationCheck,
-						"/file/get/level/config": controller.FileCtrl.Get,
+						"/file/get/level/config": controller.FileCtrl.GetLevelConfig,
+						"/file/get/image/*":      controller.FileCtrl.GetImage,
 					},
 				)
 			})
