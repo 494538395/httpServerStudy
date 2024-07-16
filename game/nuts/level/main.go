@@ -139,10 +139,6 @@ func parseLevelID(fileName string) (int, error) {
 	return 0, fmt.Errorf("无法从文件名中解析关卡ID: %s", fileName)
 }
 
-func isContinue(filename string) bool {
-	return strings.HasPrefix(filename, "localConfig_falcon_level_")
-}
-
 // genLevelData 汇总关卡json
 func genLevelData() {
 	falonCnt := 0
@@ -153,11 +149,11 @@ func genLevelData() {
 	fmt.Println("dir-->", dir)
 
 	// Specify the output file where the summarized JSON will be written
-	outputFile := "./testConfigForDesign/level/summarized_levels.json"
+	outputFile := "./game/nuts/level/levelData.json"
 
 	// Specify the input directory where JSON files are located
 	//inputDir := "C:\\Users\\青雉\\Documents\\WXWork\\1688855625500491\\Cache\\File\\2024-06\\GameLevel\\GameLevel"
-	inputDir := "C:\\Users\\青雉\\Documents\\WXWork\\1688855625500491\\Cache\\File\\2024-07\\GameLevel\\GameLevel"
+	inputDir := "C:\\Users\\青雉\\Documents\\WXWork\\1688855625500491\\Cache\\File\\2024-07\\localConfig_Level"
 	// Read all files in the input directory
 	files, err := ioutil.ReadDir(inputDir)
 	if err != nil {
@@ -192,16 +188,16 @@ func genLevelData() {
 			err = json.Unmarshal(byteValue, &level)
 			if err != nil {
 				fmt.Println("Error parsing JSON:", err)
-				continue
-			}
-
-			levelID, err := parseLevelID(file.Name())
-			if err != nil {
 				panic(err)
 			}
-			level.LevelID = levelID
 
-			if level.LevelID == 7999007 {
+			//levelID, err := parseLevelID(file.Name())
+			//if err != nil {
+			//	panic(err)
+			//}
+			//level.LevelID = levelID
+
+			if level.LevelID == 1841 {
 				fmt.Println(1)
 			}
 
@@ -271,7 +267,9 @@ func extractLevelID(filename string) (int, error) {
 			return 0, err
 		}
 		// 关卡Id前拼接一个7
-		atoi, err := strconv.Atoi(fmt.Sprintf("%d%d", 7, levelID))
+		//atoi, err := strconv.Atoi(fmt.Sprintf("%d%d", 7, levelID))
+		atoi, err := strconv.Atoi(fmt.Sprintf("%d", levelID))
+
 		if err != nil {
 			panic(err)
 		}
@@ -300,7 +298,7 @@ func extractLevelID(filename string) (int, error) {
 
 func genChapter() {
 	// 读取章节配置文件
-	chaptersFile := "./testConfigForDesign/level/all_levels_tmp.json"
+	chaptersFile := "./game/nuts/level/all_levels_tmp.json"
 	chaptersData, err := ioutil.ReadFile(chaptersFile)
 	if err != nil {
 		log.Fatalf("无法读取章节配置文件: %v", err)
@@ -335,7 +333,7 @@ func genChapter() {
 	}
 
 	// 读取现有的 `all_levels.json` 文件内容
-	allLevelsFile := "./testConfigForDesign/level/all_levels.json"
+	allLevelsFile := "./game/nuts/level/all_levels.json"
 
 	allLevels := make(map[string]interface{}, 0)
 
@@ -358,7 +356,7 @@ func genChapter() {
 
 func findFileInCurrentDir(fileName string) {
 	// 构建完整的文件路径
-	filePath := "C:\\Users\\青雉\\Documents\\WXWork\\1688855625500491\\Cache\\File\\2024-07\\GameLevel\\GameLevel\\" + fileName
+	filePath := "C:\\Users\\青雉\\Documents\\WXWork\\1688855625500491\\Cache\\File\\2024-07\\localConfig_Level\\" + fileName
 
 	// 检查文件是否存在
 	if _, err := os.Stat(filePath); os.IsNotExist(err) {
