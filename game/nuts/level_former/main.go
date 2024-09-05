@@ -104,9 +104,9 @@ type LevelConfig struct {
 
 func main() {
 
-	genLevelData()
+	//genLevelData()
 
-	//genChapter()
+	genChapter()
 }
 
 // parseLevelID 解析关卡ID
@@ -153,7 +153,9 @@ func genLevelData() {
 
 	// Specify the input directory where JSON files are located
 	//inputDir := "C:\\Users\\青雉\\Documents\\WXWork\\1688855625500491\\Cache\\File\\2024-06\\GameLevel\\GameLevel"
+	//inputDir := "C:\\Users\\青雉\\Documents\\WXWork\\1688855625500491\\Cache\\File\\2024-07\\GameLevel\\GameLevel"
 	inputDir := "C:\\Users\\青雉\\Documents\\WXWork\\1688855625500491\\Cache\\File\\2024-07\\localConfig_Level"
+
 	// Read all files in the input directory
 	files, err := ioutil.ReadDir(inputDir)
 	if err != nil {
@@ -356,6 +358,7 @@ func genChapter() {
 
 func findFileInCurrentDir(fileName string) {
 	// 构建完整的文件路径
+	//filePath := "C:\\Users\\青雉\\Documents\\WXWork\\1688855625500491\\Cache\\File\\2024-07\\GameLevel\\GameLevel\\" + fileName
 	filePath := "C:\\Users\\青雉\\Documents\\WXWork\\1688855625500491\\Cache\\File\\2024-07\\localConfig_Level\\" + fileName
 
 	// 检查文件是否存在
