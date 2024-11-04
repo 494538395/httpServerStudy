@@ -1,0 +1,33 @@
+{
+  "hotels": [
+    {
+      "desc": "",
+      "id": 1,
+      "reception": {
+        "lvs": [
+          {
+            "targetExp": 0,
+            "receptionistCount": 5,
+            "rewardExp": 0,
+            "price": [
+              {
+                "Id": 3,
+                "Type": 1,
+                "Name": 3,
+                "Count": 100
+              }
+            ]
+          },
+          {
+            "targetExp": 10,
+            "receptionistCount": 10,
+            "rewardExp": 100,
+            "price": [
+
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "道具选择",
+  "type": "selector",
+  "params": {
+    "length": 20,
+    "options": [
+      {
+        "label": "主题1",
+        "options": [
+          {
+            "label": "主题1-第一张画",
+            "value": "1_1"
+          },
+          {
+            "label": "主题1-第二张画",
+            "value": "1_2"
+          }
+        ]
+      },
+      {
+        "label": "主题2",
+        "options": [
+          {
+            "label": "主题2-第一张画",
+            "value": "2_1"
+          },
+          {
+            "label": "主题2-第二张画",
+            "value": "2_2"
+          }
+        ]
+      }
+    ]
+  }
+}

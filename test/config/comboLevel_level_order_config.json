@@ -1,0 +1,560 @@
+{
+  "dataId": "comboLevel_level_order_config",
+  "content": {
+    "segmentSize": 1,
+    "chapters": null,
+    "version": "",
+    "chapterInfos": [
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "version": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "chapters": null
+      }
+    ]
+  },
+  "remote": {
+    "content": {
+      "segmentSize": 1,
+      "chapters": null,
+      "version": "",
+      "chapterInfos": [
+        {
+          "startTime": 1730246400,
+          "endTime": 1730332800,
+          "version": "eebcace4f9e352a50b8dd3955e5f30a3a39af8358c4ab5fb58a4607669842a38",
+          "chapters": [
+            {
+              "chapterId": 1,
+              "difficulty": 1,
+              "levelIds": [
+                848,
+                849,
+                850,
+                851,
+                852,
+                853,
+                854,
+                855,
+                856
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": 1730332801,
+          "endTime": 1730419200,
+          "version": "59142a09e3e52b49acdac2008f1248638285ee8586bf56db444051e990558291",
+          "chapters": [
+            {
+              "chapterId": 1,
+              "difficulty": 0,
+              "levelIds": [
+                929,
+                930,
+                931,
+                932,
+                933,
+                934,
+                935,
+                936,
+                937
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": 1730419201,
+          "endTime": 1730505600,
+          "version": "1bdb25f5fd01dce350015aa4e60d74c5b22929b58ec85e56a00e66a3ba9f992b",
+          "chapters": [
+            {
+              "chapterId": 1,
+              "difficulty": 0,
+              "levelIds": [
+                938,
+                939,
+                940,
+                941,
+                942,
+                943,
+                944,
+                945,
+                946
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": 1730505601,
+          "endTime": 1730592000,
+          "version": "5e76216d1e85776389aa96ea3565c5816b5013fa44c2607648352d46d711642c",
+          "chapters": [
+            {
+              "chapterId": 1,
+              "difficulty": 0,
+              "levelIds": [
+                947,
+                948,
+                949,
+                950,
+                951,
+                952,
+                953,
+                954,
+                955
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": 1730592001,
+          "endTime": 1730678400,
+          "version": "df8cff21c29f1204ade86e61f385933a66aaa9a45f1dd8407174c0b4d1fdb46d",
+          "chapters": [
+            {
+              "chapterId": 1,
+              "difficulty": 0,
+              "levelIds": [
+                956,
+                957,
+                958,
+                959,
+                960,
+                961,
+                962,
+                963,
+                964
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": 1730678401,
+          "endTime": 1730764800,
+          "version": "84b9bf4cafccd01065fec7efc9090e30d5fa0481a5c0030fc91b3eb0ad9e3dba",
+          "chapters": [
+            {
+              "chapterId": 1,
+              "difficulty": 0,
+              "levelIds": [
+                965,
+                966,
+                967,
+                968,
+                969,
+                970,
+                971,
+                972,
+                973
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": 1730764801,
+          "endTime": 1730851200,
+          "version": "eea4de99532f129c86cc7329b808adec7e72fd03f8c98cc89660c39dd8836955",
+          "chapters": [
+            {
+              "chapterId": 1,
+              "difficulty": 0,
+              "levelIds": [
+                974,
+                975,
+                976,
+                977,
+                978,
+                979,
+                980,
+                981,
+                982
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": 1730851201,
+          "endTime": 1730937600,
+          "version": "64d0d87a87015a1a6e1913660d1dd369052e51cad1b7757bcd72579e1d0d24fb",
+          "chapters": [
+            {
+              "chapterId": 1,
+              "difficulty": 0,
+              "levelIds": [
+                983,
+                984,
+                985,
+                986,
+                987,
+                988,
+                989,
+                990,
+                991
+              ]
+            }
+          ]
+        },
+        {
+          "startTime": 1730937601,
+          "endTime": 1731024000,
+          "version": "2f617f73956f5a1cae7763bc70d8b6d6b30307ee255d4c7f9b06ef555075061f",
+          "chapters": [
+            {
+              "chapterId": 1,
+              "difficulty": 0,
+              "levelIds": [
+                992,
+                993,
+                994,
+                995,
+                996,
+                997,
+                998,
+                999,
+                1000
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "remoteConf": {
+      "proportion": 100,
+      "startTime": 1730304694,
+      "growPeriod": 0,
+      "growValue": 0
+    }
+  },
+  "experiment": null
+}
